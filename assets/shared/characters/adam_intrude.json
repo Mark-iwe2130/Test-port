@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ADAM Idle"
+		},
+		{
+			"offsets": [
+				52,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ADAM LEFT NOTE"
+		},
+		{
+			"offsets": [
+				45,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ADAM DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-30,
+				94
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ADAM UP NOTE"
+		},
+		{
+			"offsets": [
+				-84,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ADAM RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				26,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISSADAM LEFT NOTE "
+		},
+		{
+			"offsets": [
+				8,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISSADAM DOWN NOTE"
+		},
+		{
+			"offsets": [
+				-15,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISSADAM UP NOTE"
+		},
+		{
+			"offsets": [
+				-51,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISSADAM RIGHT NOTE"
+		},
+		{
+			"offsets": [
+				184,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "jonah",
+			"indices": [],
+			"name": "ADAM JONAH"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ADAM_ASSETS",
+	"position": [
+		-290,
+		430
+	],
+	"healthicon": "adam",
+	"flip_x": true,
+	"healthbar_colors": [
+		88,
+		98,
+		139
+	],
+	"camera_position": [
+		520,
+		-440
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}

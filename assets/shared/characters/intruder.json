@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-420
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TV LEFT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-420
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TV RIGHT NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-420
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TV DOWN NOTE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-420
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TV UP NOTE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-420
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TV IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Intruder_assets",
+	"position": [
+		-450,
+		-120
+	],
+	"healthicon": "icon-none",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		-10,
+		410
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
