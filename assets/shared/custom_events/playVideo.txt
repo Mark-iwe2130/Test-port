@@ -1,5 +1,0 @@
-Play Any Video
-
-Value 1: VIDEO NAME
-
-Value 2: What camera you want to put it on
