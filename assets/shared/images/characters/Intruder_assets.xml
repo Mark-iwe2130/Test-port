@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Intruder_assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TV DOWN NOTE0000" x="0" y="0" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0001" x="424" y="0" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0002" x="848" y="0" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0003" x="1272" y="0" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0004" x="0" y="374" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0005" x="424" y="374" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0006" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0007" x="1272" y="374" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0008" x="0" y="748" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0009" x="424" y="748" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0010" x="0" y="374" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0011" x="424" y="374" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0012" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV DOWN NOTE0013" x="1272" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0000" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0001" x="1272" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0002" x="0" y="748" width="394" height="344"/>
+	<SubTexture name="TV IDLE0003" x="424" y="748" width="394" height="344"/>
+	<SubTexture name="TV IDLE0004" x="0" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0005" x="424" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0006" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0007" x="1272" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0008" x="0" y="748" width="394" height="344"/>
+	<SubTexture name="TV IDLE0009" x="424" y="748" width="394" height="344"/>
+	<SubTexture name="TV IDLE0010" x="0" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0011" x="424" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0012" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV IDLE0013" x="1272" y="374" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0000" x="848" y="748" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0001" x="1272" y="748" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0002" x="0" y="1122" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0003" x="424" y="1122" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0004" x="0" y="374" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0005" x="424" y="374" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0006" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0007" x="1272" y="374" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0008" x="0" y="748" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0009" x="424" y="748" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0010" x="0" y="374" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0011" x="424" y="374" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0012" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV LEFT NOTE0013" x="1272" y="374" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0000" x="848" y="1122" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0001" x="1272" y="1122" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0002" x="0" y="1496" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0003" x="424" y="1496" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0004" x="848" y="1496" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0005" x="1272" y="1496" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0006" x="0" y="1870" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0007" x="424" y="1870" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0008" x="848" y="1870" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0009" x="1272" y="1870" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0010" x="848" y="1496" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0011" x="1272" y="1496" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0012" x="0" y="1870" width="394" height="344"/>
+	<SubTexture name="TV RIGHT NOTE0013" x="424" y="1870" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0000" x="0" y="2244" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0001" x="424" y="2244" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0002" x="848" y="2244" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0003" x="1272" y="2244" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0004" x="0" y="374" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0005" x="424" y="374" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0006" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0007" x="1272" y="374" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0008" x="0" y="748" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0009" x="424" y="748" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0010" x="0" y="374" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0011" x="424" y="374" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0012" x="848" y="374" width="394" height="344"/>
+	<SubTexture name="TV UP NOTE0013" x="1272" y="374" width="394" height="344"/>
+</TextureAtlas>
